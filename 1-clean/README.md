@@ -12,7 +12,7 @@ The codes include:
 - regular expressions
 
 ## Dog analysis
-The jupyter notebook is [billionaires-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/dog-analysis.ipynb).
+The jupyter notebook is [dogs-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/dog-analysis.ipynb).
 This analysis is based on [NYC_Dog_Licenses_Current_as_of_4-28-2016.xlsx](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/NYC_Dog_Licenses_Current_as_of_4-28-2016.xlsx).
 The joint data set is [zipcodes-neighborhoods.csv](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/zipcodes-neighborhoods.csv)
 The codes include:
