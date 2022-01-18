@@ -18,7 +18,7 @@ The codes include:
 ## Blossoms analysis
 The analysis is based on [KyotoFullFlower7.xls](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/2-realworld/KyotoFullFlower7.xls).
 
-The jupyter notebook is blossoms-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/2-realworld/blossoms-analysis.ipynb).
+The jupyter notebook is [blossoms-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/2-realworld/blossoms-analysis.ipynb
 The codes include:
 - skip first several rows
 - add more NaN values
