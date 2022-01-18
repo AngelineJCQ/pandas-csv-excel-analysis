@@ -2,7 +2,9 @@
 
 ## Beer analysis
 The jupyter notebook is [beers-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/beers-analysis.ipynb).
+
 This analysis is based on [craftcans.csv](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/craftcans.csv).
+
 The codes include:
 - basic analysis included in [0-start](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/0-start)
 - replace certain string with another string
@@ -12,9 +14,12 @@ The codes include:
 - regular expressions
 
 ## Dog analysis
-The jupyter notebook is [dogs-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/dog-analysis.ipynb).
+The jupyter notebook is [dogs-analysis.ipynb](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/dogs-analysis.ipynb).
+
 This analysis is based on [NYC_Dog_Licenses_Current_as_of_4-28-2016.xlsx](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/NYC_Dog_Licenses_Current_as_of_4-28-2016.xlsx).
+
 The joint data set is [zipcodes-neighborhoods.csv](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/1-clean/zipcodes-neighborhoods.csv)
+
 The codes include:
 - basic analysis included in [0-start](https://github.com/AngelineJCQ/pandas-csv-excel-analysis/blob/main/0-start)
 - include rows with certain NA
